@@ -1,0 +1,15 @@
+Save system
+Finish Achieves
+
+weapons:
+12 gauge - m3 kills (HSG bonus to Support)
+Any semi auto rifle - pistol kills and ar kills
+
+bull shot - swarmblaster kills on bones
+demon rifle - no req's
+
+utilities:
+body armor - less damage on body shots - die x times as human
+short range radar - 10 kills as scout in round
+
+heavy flesh - reduced damage - die 20 times in one round

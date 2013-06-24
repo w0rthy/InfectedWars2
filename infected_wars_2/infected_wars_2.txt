@@ -1,0 +1,12 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Infected Wars 2"
+	"maps"		"^iw_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"settings"
+	{
+	}
+}
