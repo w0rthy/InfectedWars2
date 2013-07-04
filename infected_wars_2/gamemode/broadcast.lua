@@ -9,9 +9,7 @@ local nextbrd = 1
 local nexttime = CurTime() + 15
 function Broadcast()
 	if CurTime()>=nexttime then
-		for k, v in pairs(player.GetAll()) do
-			v:PrintMessage( HUD_PRINTTALK, broadcasts[nextbrd] )
-		end
+		PrintMessage( HUD_PRINTTALK, broadcasts[nextbrd] )
 		nextbrd = nextbrd + 1
 		if nextbrd > 5 then nextbrd = 1 end
 		nexttime = CurTime()+15
